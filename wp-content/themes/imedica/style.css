@@ -1,0 +1,38 @@
+/*
+Theme Name: iMedica-Themelot.net
+Theme URI: https://brainstormforce.com/demos/imedica/
+Author: Brainstorm Force
+Author URI: http://themeforest.net/user/brainstormforce
+Description: iMedica is probably the most comprehensive & feature rich WordPress theme that's made for medical organizations. Responsive code, retina ready graphics, lightweight framework and very flexible structure makes it outstanding.
+Version: 3.1.8
+License: Themeforest Split Licence
+License URI: - http://themeforest.net/licenses/terms/regular
+Text Domain: imedica
+Tags: white
+----------------------------------------------------------------*/
+
+/* New Fixes */
+
+.wpcf7-control,
+.wpcf7-text,
+.wpcf7-form-control-wrap input[type="text"],
+.wpcf7-form-control-wrap input[type="email"],
+.wpcf7-form-control-wrap textarea {
+background:#fff;
+width: 100%;
+color:#000;
+font-family: "Open Sans", sans-serif; 
+font-style: italic;    
+}
+
+.wpcf7-textarea {
+width: 100%;
+}
+
+.wpcf7-form {
+width: 100%;
+} 
+
+.titulosgrandesh3 {
+font-size: 15px;
+}
