@@ -36,3 +36,7 @@ width: 100%;
 .titulosgrandesh3 {
 font-size: 15px;
 }
+
+body {
+	background: black !important;
+}
